@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1463442882 source:c:\users\lenovo\documents\c programs\data_structures\project\floatstack.c
+	<stdio.h>
+	<stdlib.h>
+	"FloatStack.h"
+	"linkedlist.h"
+
+1463441625 c:\users\lenovo\documents\c programs\data_structures\project\floatstack.h
+	"linkedlist.h"
+
+1463475939 source:c:\users\lenovo\documents\c programs\data_structures\project\functions.c
+	"functions.h"
+	<ctype.h>
+
+1463441217 c:\users\lenovo\documents\c programs\data_structures\project\functions.h
+
+1463439711 source:c:\users\lenovo\documents\c programs\data_structures\project\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"linkedlist.h"
+
+1461712722 c:\users\lenovo\documents\c programs\data_structures\project\stack.h
+	"linkedlist.h"
+
+1463474169 source:c:\users\lenovo\documents\c programs\data_structures\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+	"FloatStack.h"
+	"functions.h"
+	"linkedlist.h"
+
+1463442427 source:c:\users\lenovo\documents\c programs\data_structures\project\linkedlist.c
+	<stdlib.h>
+	"linkedlist.h"
+
+1463441625 c:\users\lenovo\documents\c programs\data_structures\project\linkedlist.h
+
